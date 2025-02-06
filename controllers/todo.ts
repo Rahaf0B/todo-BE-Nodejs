@@ -28,18 +28,6 @@ export default class CTodo {
     { id: 3, 
       title: "Work To-Dos",
       content: "Complete user authentication and test APIs.",
-    },
-    { id: 4,
-      title: "Travel Plan",
-      content: "Book flight and hotel for Paris trip.",
-    },
-    {   id: 5,
-      title: "Recipe: Pancakes",
-      content: "Mix ingredients and cook on a pan.",
-    },
-    { id: 6,
-      title: "Important Reminder",
-      content: "Pay bills and send client newsletter.",
     }
   ];
   

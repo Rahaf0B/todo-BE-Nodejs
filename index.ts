@@ -14,7 +14,7 @@ app.use(
 
 app.use("/todo", todoRoutes);
 
-const port = 3000;
+const port = 8080;
 
 
 
@@ -23,5 +23,5 @@ app.use(async (req: any, res: any, next: any) => {
 });
 
 app.listen(port, () => {
-  console.log("Express app is listening on the port 3000!");
+  console.log("Express app is listening on the port 8080!");
 });
